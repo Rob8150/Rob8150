@@ -4,7 +4,7 @@
 
 I like Bush Hiking, Engineering, and Coding. 🖥️  VIM Rocks 
 
-![gopher ](./skipper.png)
+![gopher ](./darkskipper.png)
 
 ### The Detail
 I think automation should replace all the boring task of code replication that can not be refactored away!
